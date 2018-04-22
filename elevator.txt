@@ -1,0 +1,9 @@
+class Elevator
+{
+	public:
+		int t;
+		int correntfloor=0;
+	int gotofloor(int i,int j);
+	int stop(int i);
+		
+}
